@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# 本地环境变量；保留不含真实密钥的示例文件
+.env
+.env.*
+!.env.example
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
